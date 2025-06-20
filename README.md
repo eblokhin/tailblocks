@@ -1,3 +1,5 @@
+[mertJF](https://github.com/mertJF) is author of the original repository. My gratitudes to him
+
 # Tailblocks
 ### Ready-to-use Tailwind CSS blocks
 ##### Features
